@@ -1,0 +1,8 @@
+venv310/
+venv311/
+pmdarima-2.0.4-cp311-cp311-win_amd64.whl
+__pycache__/
+*.pyd
+*.dll
+*.pyc
+.DS_Store
